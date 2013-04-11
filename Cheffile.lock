@@ -1,0 +1,10 @@
+GIT
+  remote: https://github.com/opscode-cookbooks/iptables
+  ref: master
+  sha: bc536ccaf31054ae71f3b0dacb369444f6b769af
+  specs:
+    iptables (0.12.0)
+
+DEPENDENCIES
+  iptables (>= 0)
+
